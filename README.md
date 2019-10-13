@@ -3,4 +3,4 @@
 # Письмак Кирилл
 Мои домашние задания 
 
-[Урок 12](PismakKirill.github.io/lession_12 "Моя готовая домашка")
+[Урок 12](PismakKirill.github.io/lession_12 "Моя готовая домашка") - работа с репозиторием на gethub
